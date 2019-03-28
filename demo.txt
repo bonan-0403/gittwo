@@ -1,1 +1,5 @@
-天空飘来五个字
+天空飘来五字
+
+第一步 git add “新增的文件、改动过的文件”  git add *
+第二步  git commit -m “描述==》提示你是第几次上传”
+第三步 git push -u origin master //默认分支
